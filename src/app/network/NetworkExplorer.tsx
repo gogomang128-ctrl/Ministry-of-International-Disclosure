@@ -409,7 +409,7 @@ export default function NetworkExplorer({
                 <div>
                   <p className="flex items-center gap-1.5 text-[10px] text-gold">
                     <Brain className="size-3.5" />
-                    ملف استخباراتي مولّد وموثّق بالمصاد�ر
+                    ملف استخباراتي مولّد وموثّق بالمصادر
                   </p>
                   <h3 className="mt-1 font-kufi text-xl font-black text-ivory">{dossier.ar}</h3>
                   <p dir="ltr" className="text-[10px] text-mute">{dossier.en}</p>

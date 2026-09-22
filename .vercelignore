@@ -1,0 +1,9 @@
+# يُستخدم هذا الملف عند الرفع عبر Vercel CLI (vercel deploy)
+node_modules
+.next
+out
+.env
+.env.*
+!.env.example
+.git
+.vercel
